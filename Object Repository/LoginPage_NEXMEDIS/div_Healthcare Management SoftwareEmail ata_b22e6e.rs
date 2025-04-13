@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Healthcare Management SoftwareEmail ata_b22e6e</name>
+   <tag></tag>
+   <elementGuidId>f805a8dc-051d-4b1c-b68f-b9f429cb9024</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/main/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>97d2958f-9ece-4918-b704-f44a8015e98e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-container</value>
+      <webElementGuid>e62e148f-4fb4-483b-bb97-0ebe086e3919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Healthcare Management SoftwareEmail atau Nomor HandphonePasswordLupa Password?Login</value>
+      <webElementGuid>0f91bbc6-dd2b-45e7-b92b-a25f070934b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/main[@class=&quot;authentication&quot;]/div[@class=&quot;form-container&quot;]</value>
+      <webElementGuid>22988e1a-8a6d-4bb7-9784-ce17518727c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/main/div[2]</value>
+      <webElementGuid>9bac0fbe-869a-4cd3-8713-c61724d44bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem informasi kesehatan terpadu untuk pelayanan medis'])[1]/following::div[1]</value>
+      <webElementGuid>e3f29cad-a6ed-48c7-b35f-b6cfc4505737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>ab73b82a-9ece-4693-aff0-00b006f34c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Healthcare Management SoftwareEmail atau Nomor HandphonePasswordLupa Password?Login' or . = 'Healthcare Management SoftwareEmail atau Nomor HandphonePasswordLupa Password?Login')]</value>
+      <webElementGuid>99b208a0-17bf-49f0-bddb-802a470db387</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

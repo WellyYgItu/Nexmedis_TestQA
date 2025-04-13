@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Email atau Nomor Handphone</name>
+   <tag></tag>
+   <elementGuidId>25d6efe1-9787-492a-a961-959935d8988a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/main/div[2]/div/form/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.black</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>fdce379e-b567-4929-a4be-511364e0abbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>black</value>
+      <webElementGuid>602293ae-9167-43b6-b10b-346a4f39d18f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>id</value>
+      <webElementGuid>3b7cbae0-4a3d-45c7-834f-282942eb4e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email atau Nomor Handphone</value>
+      <webElementGuid>95e2d2b6-7c90-4257-b627-0f5576d39b99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/main[@class=&quot;authentication&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;card&quot;]/form[1]/div[@class=&quot;form-control&quot;]/label[@class=&quot;black&quot;]</value>
+      <webElementGuid>2c602897-31ad-4b0b-b77e-da33098dcb64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/main/div[2]/div/form/div/label</value>
+      <webElementGuid>c999f79f-7fcb-45c1-9611-e2b562766d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem informasi kesehatan terpadu untuk pelayanan medis'])[1]/following::label[1]</value>
+      <webElementGuid>4fc37f5c-f24e-469a-9257-f1262a5c195e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::label[1]</value>
+      <webElementGuid>415ef9f9-6be7-4f29-84c7-7cffaad90d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password?'])[1]/preceding::label[2]</value>
+      <webElementGuid>3c544cab-861e-4580-b7ba-f47fe0011ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>d69b0562-b2c3-4735-9760-166ca458926a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Email atau Nomor Handphone' or . = 'Email atau Nomor Handphone')]</value>
+      <webElementGuid>93007bf4-eb18-4f96-b05a-3d35de0cc34b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

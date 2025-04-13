@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lanjut</name>
+   <tag></tag>
+   <elementGuidId>2f969547-3cc9-4d9b-b128-67ebb43f1f81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/main/div[2]/div/form/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.solid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>346c5a8a-c1fe-487f-9ae0-2d8f9ff0d29f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn solid</value>
+      <webElementGuid>49d3cf08-c671-46e4-a986-db65b4deade5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjut</value>
+      <webElementGuid>54d25759-9e7e-4f51-95a8-f9cbc2dd0b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/main[@class=&quot;authentication&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;card&quot;]/form[1]/button[@class=&quot;btn solid&quot;]</value>
+      <webElementGuid>38b5a95e-8ce0-43c8-85ca-19c41e6a4e98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/main/div[2]/div/form/button</value>
+      <webElementGuid>a80f8605-d0b9-4083-b8b7-10950eee38bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Organisasi/Perusahaan'])[1]/following::button[1]</value>
+      <webElementGuid>dd4ebe4b-3473-4f25-9a9c-c2054e4ac19f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem informasi kesehatan terpadu untuk pelayanan medis'])[1]/following::button[1]</value>
+      <webElementGuid>5b617916-802f-4abd-a48f-dcc77980c588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>f025f692-d85c-41aa-a331-6f4753a931e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Lanjut' or . = 'Lanjut')]</value>
+      <webElementGuid>190d3164-18a3-4d95-aa1e-f2f09bdec1b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

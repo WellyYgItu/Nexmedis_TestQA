@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sistem informasi kesehatan terpadu untu_36b1f5</name>
+   <tag></tag>
+   <elementGuidId>98eab942-cf2e-466b-b0e7-624689cd443e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/main/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1a19f673-84c5-42e5-b780-45b68dab488b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>3f4caf76-cdd0-4cb6-b49a-1085e4fa4307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sistem informasi kesehatan terpadu untuk pelayanan medis</value>
+      <webElementGuid>c054acd9-1780-4577-92f2-4bf379a1c6ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/main[@class=&quot;authentication&quot;]/div[@class=&quot;img-background&quot;]/div[@class=&quot;title&quot;]</value>
+      <webElementGuid>7d0c9ccb-a2d8-48c2-a083-aabaa8779c7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/main/div/div</value>
+      <webElementGuid>441fe99f-3b8b-4ad3-b000-5ac7f2d688c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Organisasi/Perusahaan'])[1]/preceding::div[1]</value>
+      <webElementGuid>07e1a0a3-d7a5-4a13-a887-7d97579f1045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>e10a941a-7798-4c85-a2d9-5536e10dd173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sistem informasi kesehatan terpadu untuk pelayanan medis' or . = 'Sistem informasi kesehatan terpadu untuk pelayanan medis')]</value>
+      <webElementGuid>05a95713-15f7-455e-9d1e-3e1b6a18d6ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

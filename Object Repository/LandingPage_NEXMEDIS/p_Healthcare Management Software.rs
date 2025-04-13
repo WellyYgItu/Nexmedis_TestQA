@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Healthcare Management Software</name>
+   <tag></tag>
+   <elementGuidId>aa08ad08-3157-4531-86b9-340bac1096d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/main/div[2]/div/form/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.subtitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ee738d74-f986-4105-8f64-ca5e2256ea96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subtitle</value>
+      <webElementGuid>2639af6e-6232-413a-aee9-b99742d764ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Healthcare Management Software</value>
+      <webElementGuid>0a0c6ece-aec5-450a-aabb-22dd968e683c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/main[@class=&quot;authentication&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;card&quot;]/form[1]/p[@class=&quot;subtitle&quot;]</value>
+      <webElementGuid>bafd8183-1881-4c59-82b2-13dde180e343</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/main/div[2]/div/form/p</value>
+      <webElementGuid>9a5ef11d-a07d-4dc7-9b12-f3af01e8a81b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem informasi kesehatan terpadu untuk pelayanan medis'])[1]/following::p[1]</value>
+      <webElementGuid>ba5b34d9-99e4-4126-ab42-33cc1caae035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Organisasi/Perusahaan'])[1]/preceding::p[1]</value>
+      <webElementGuid>d08c814d-aaae-474d-9e62-c29dc842eaa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>cf1902a5-491d-4d84-b866-5e72b3835ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Healthcare Management Software' or . = 'Healthcare Management Software')]</value>
+      <webElementGuid>05b7c21c-ada6-4d50-8704-b916c0072280</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

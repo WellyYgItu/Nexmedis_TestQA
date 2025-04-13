@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Aplikasi rekam medis elektronik (RME) be_0881ed</name>
+   <tag></tag>
+   <elementGuidId>c0cf991f-8c49-4a65-8625-570568f4b7e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/main/main/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.desc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>e98de565-0cd5-4d38-8886-86ecc9c145cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desc</value>
+      <webElementGuid>fa12a9f0-476c-464f-897a-6cd0a4cc53cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aplikasi rekam medis elektronik (RME) bertenaga AI untuk menyederhanakan operasional fasilitas kesehatan, memajukan layanan klinis Anda</value>
+      <webElementGuid>c896664a-708d-4342-866a-e32cab22e14f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/main[1]/main[@class=&quot;authentication&quot;]/div[@class=&quot;img-background&quot;]/h1[@class=&quot;desc&quot;]</value>
+      <webElementGuid>b2e20c09-507c-4ecd-9ba7-94366520bef1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/main/main/div/h1</value>
+      <webElementGuid>e5bd2074-d747-4611-8ac2-f14a0876b256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem informasi kesehatan terpadu untuk pelayanan medis'])[1]/following::h1[1]</value>
+      <webElementGuid>37971444-b558-4683-9f56-c93daa737763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Organisasi/Perusahaan'])[1]/preceding::h1[1]</value>
+      <webElementGuid>da6f1773-cfa1-4c87-9da4-cfc06d1e1777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>543a4290-970c-4756-b1ed-5c335cbeb56a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Aplikasi rekam medis elektronik (RME) bertenaga AI untuk menyederhanakan operasional fasilitas kesehatan, memajukan layanan klinis Anda' or . = 'Aplikasi rekam medis elektronik (RME) bertenaga AI untuk menyederhanakan operasional fasilitas kesehatan, memajukan layanan klinis Anda')]</value>
+      <webElementGuid>a9a454b4-b711-47d5-b05f-6e4bcf826bd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
